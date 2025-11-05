@@ -118,7 +118,7 @@ const StickyCardPin = () => {
                   className="object-cover"
                 />
               </div>
-              <div className="relative w-[679px] h-[123px] flex justify-start items-start gap-[20px] p-4">
+              <div className="relative w-[679px] h-[123px] flex justify-start items-start gap-5 p-4">
                 <p className={`${outfit.className} text-[1.1rem] tracking-tight text-black w-full`}>
                   ABOUT THE STATE
                 </p>
